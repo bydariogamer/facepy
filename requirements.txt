@@ -1,0 +1,6 @@
+dlib
+cv2
+sys
+imutils
+pyvirtualcam
+numpy
